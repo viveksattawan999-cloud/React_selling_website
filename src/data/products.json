@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ultimate Creator Bundle",
+    "category": "Creator",
+    "price": 19.99,
+    "oldPrice": 49.99,
+    "rating": 4.9,
+    "sales": 1842,
+    "badge": "Best Seller",
+    "emoji": "🎨",
+    "description": "Premium templates and assets for creators."
+  },
+  {
+    "id": 2,
+    "name": "AI Prompt Master Pack",
+    "category": "AI",
+    "price": 9.99,
+    "oldPrice": 29.99,
+    "rating": 4.8,
+    "sales": 3265,
+    "badge": "Popular",
+    "emoji": "🤖",
+    "description": "Thousands of practical prompts for work and content."
+  },
+  {
+    "id": 3,
+    "name": "Social Media Templates",
+    "category": "Marketing",
+    "price": 14.99,
+    "oldPrice": 39.99,
+    "rating": 4.7,
+    "sales": 972,
+    "badge": "Hot",
+    "emoji": "📱",
+    "description": "Ready-to-edit social posts for modern brands."
+  },
+  {
+    "id": 4,
+    "name": "Ebook Mega Library",
+    "category": "Education",
+    "price": 12.99,
+    "oldPrice": 34.99,
+    "rating": 4.6,
+    "sales": 1210,
+    "badge": "Value",
+    "emoji": "📚",
+    "description": "A curated digital library for learning and growth."
+  },
+  {
+    "id": 5,
+    "name": "Video Creator Toolkit",
+    "category": "Creator",
+    "price": 24.99,
+    "oldPrice": 59.99,
+    "rating": 4.9,
+    "sales": 746,
+    "badge": "Premium",
+    "emoji": "🎬",
+    "description": "Hooks, presets, scripts and resources for video creators."
+  },
+  {
+    "id": 6,
+    "name": "Startup Notion Workspace",
+    "category": "Business",
+    "price": 7.99,
+    "oldPrice": 19.99,
+    "rating": 4.8,
+    "sales": 2187,
+    "badge": "New",
+    "emoji": "🚀",
+    "description": "Organize your startup, tasks, ideas and operations."
+  },
+  {
+    "id": 7,
+    "name": "Freelancer Toolkit",
+    "category": "Business",
+    "price": 11.99,
+    "oldPrice": 27.99,
+    "rating": 4.7,
+    "sales": 853,
+    "badge": "Deal",
+    "emoji": "💼",
+    "description": "Templates to help freelancers manage clients and projects."
+  },
+  {
+    "id": 8,
+    "name": "Design Inspiration Vault",
+    "category": "Design",
+    "price": 16.99,
+    "oldPrice": 44.99,
+    "rating": 4.9,
+    "sales": 534,
+    "badge": "Featured",
+    "emoji": "✨",
+    "description": "A visual inspiration collection for designers."
+  }
+]
